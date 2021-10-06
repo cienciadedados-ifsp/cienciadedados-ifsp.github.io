@@ -2098,6 +2098,7 @@ input, select, textarea {
 	}
 
 		#logo h1 {
+			line-height: 1em;
 			font-weight: 900;
 			text-transform: uppercase;
 			color: #fff;
@@ -2120,7 +2121,7 @@ input, select, textarea {
 
 		#logo img {
 			border-radius: 0.35em;
-			height: 130px;
+			height: 8em;
 			margin-top: 3em;
 		}
 
@@ -2469,7 +2470,7 @@ input, select, textarea {
 
 				#logo h1 {
 					/* font-size: 1.75em; */
-					font-size: 2.25em;
+					font-size: 2.5em;
 				}
 
 		/* Intro */
@@ -2899,8 +2900,8 @@ input, select, textarea {
 			}
 
 				.homepage #header {
-					height: 20em;
-					/* height: 40em; */
+					/* height: 20em; */
+					height: 40em;
 				}
 
 		/* Logo */
@@ -2912,7 +2913,7 @@ input, select, textarea {
 			}
 
 				#logo h1 {
-					font-size: 1.5em;
+					font-size: 2.5em;
 					letter-spacing: 0.2em;
 				}
 
