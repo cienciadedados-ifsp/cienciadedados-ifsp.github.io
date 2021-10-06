@@ -3298,12 +3298,12 @@ button.swimming-green:hover, button.swimming-green:hover:after, button.swimming-
 	line-height: 1.2em;
 }
 
-.carousel blockquote p:before {
+/* .carousel blockquote p:before {
 	content: "\f10d";
     font-family: 'Fontawesome';
     margin-right: 0.5em;
 	color: #2f333b;
-}
+} */
 
 .carousel blockquote p:after {
 	content: "\f10e";
