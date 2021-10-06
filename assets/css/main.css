@@ -3298,6 +3298,10 @@ button.swimming-green:hover, button.swimming-green:hover:after, button.swimming-
 	line-height: 1.2em;
 }
 
+.carousel blockquote .fa-quote-left, .carousel blockquote .fa-quote-right {
+	color: #2f333b;
+}
+
 /* .carousel blockquote p:before {
 	content: "\f10d";
     font-family: 'Fontawesome';
@@ -3305,12 +3309,12 @@ button.swimming-green:hover, button.swimming-green:hover:after, button.swimming-
 	color: #2f333b;
 } */
 
-.carousel blockquote p:after {
+/* .carousel blockquote p:after {
 	content: "\f10e";
     font-family: 'Fontawesome';
     margin-left: 0.5em;
 	color: #2f333b;
-}
+} */
 
 
 .carousel blockquote a {
