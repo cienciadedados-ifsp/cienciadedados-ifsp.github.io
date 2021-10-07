@@ -3102,6 +3102,10 @@ li.editais-anteriores-icon {
 } */
 
 
+#ciencia-de-dados p, #sobre-o-curso p, .panel p {
+	text-align: justify;
+}
+
 
 .wrapper.style3.processo-seletivo {
     background: #359830 url(images/overlay.png);
