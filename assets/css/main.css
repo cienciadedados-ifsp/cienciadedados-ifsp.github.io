@@ -3188,6 +3188,12 @@ li.editais-anteriores-icon {
 	transition: 0.4s;
 }
 
+button.accordion {
+	min-height: 3em;
+	line-height: 1em;
+    padding: 1em;
+}
+
 .white-bg {
 	background-color: white !important;
 }
